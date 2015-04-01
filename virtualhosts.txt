@@ -1,6 +1,6 @@
 192.17.239.51 engr-acm-nsm-01.acm.illinois.edu xen.open-nsm.net
 192.17.239.52 engr-acm-nsm-02.acm.illinois.edu www.open-nsm.net
-192.17.239.53 engr-acm-nsm-03.acm.illinois.edu
+192.17.239.53 engr-acm-nsm-03.acm.illinois.edu syslog.open-nsm.net
 192.17.239.54 engr-acm-nsm-04.acm.illinois.edu
 192.17.239.55 engr-acm-nsm-05.acm.illinois.edu
 192.17.239.56 engr-acm-nsm-06.acm.illinois.edu
